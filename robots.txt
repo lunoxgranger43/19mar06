@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.emergentinc.co/superjp.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/gilajp.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/pakong86.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/viral88.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/clan4d.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/elang212.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/gori77.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/viral4d.html/sitemap.xml
+Sitemap: https://ftp.emergentinc.co/playground88.html/sitemap.xml
